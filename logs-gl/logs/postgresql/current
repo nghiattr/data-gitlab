@@ -1,0 +1,4 @@
+2022-04-19_12:53:43.65681 LOG:  starting PostgreSQL 12.7 on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0, 64-bit
+2022-04-19_12:53:43.73911 LOG:  listening on Unix socket "/var/opt/gitlab/postgresql/.s.PGSQL.5432"
+2022-04-19_12:53:43.81863 LOG:  database system was shut down at 2022-04-19 12:47:01 GMT
+2022-04-19_12:53:43.83587 LOG:  database system is ready to accept connections
