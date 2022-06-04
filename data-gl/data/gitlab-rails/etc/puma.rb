@@ -38,6 +38,7 @@ bind 'unix:///var/opt/gitlab/gitlab-rails/sockets/gitlab.socket'
 
 bind 'tcp://127.0.0.1:8080'
 
+
 directory '/var/opt/gitlab/gitlab-rails/working'
 
 workers 4

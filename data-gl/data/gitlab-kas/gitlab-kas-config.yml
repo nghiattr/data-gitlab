@@ -16,9 +16,12 @@ agent:
   info_cache_ttl: 300s
   info_cache_error_ttl: 60s
 gitlab:
-  address: http://e1b007ea2bcf
+  address: http://3c2dbefc226c
   authentication_secret_file: /var/opt/gitlab/gitlab-kas/authentication_secret_file
 observability:
+  listen:
+    address: localhost:8151
+    network: tcp
   usage_reporting_period: 60s
   logging:
     level: info

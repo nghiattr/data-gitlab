@@ -3,4 +3,4 @@
 	filemode = true
 	bare = true
 [gitlab]
-	fullpath = root/be-repo
+	fullpath = gitlab-instance-5e79a686/flask-docker

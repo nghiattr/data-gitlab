@@ -6,7 +6,7 @@
 
 socket_path = '/var/opt/gitlab/gitaly/gitaly.socket'
 
-internal_socket_dir = '/var/opt/gitlab/gitaly/internal_sockets'
+runtime_dir = '/var/opt/gitlab/gitaly/run'
 bin_dir = '/opt/gitlab/embedded/bin'
 
 
@@ -42,6 +42,7 @@ relative_url_root = ''
 
 
 [hooks]
+
 
 
 [daily_maintenance]

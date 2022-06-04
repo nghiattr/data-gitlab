@@ -4,7 +4,7 @@
 
 [user]
         name = GitLab
-        email = gitlab@e1b007ea2bcf
+        email = gitlab@3c2dbefc226c
 [core]
         autocrlf = input
         alternateRefsCommand="exit 0 #"

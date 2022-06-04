@@ -19,6 +19,7 @@ production:
     sslca: 
     load_balancing: {"hosts":[]}
     prepared_statements: false
+    database_tasks: true
     statement_limit: 1000
     connect_timeout: 
     keepalives: 

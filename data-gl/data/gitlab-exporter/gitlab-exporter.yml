@@ -45,12 +45,15 @@ probes:
       redis_url: "unix:/var/opt/gitlab/redis/redis.socket"
       redis_enable_client: true
 
+
   metrics:
     multiple: true
     ruby:
       <<: *ruby
     sidekiq:
       <<: *sidekiq
+
+
     ci_builds:
       class_name: Database::CiBuildsProber
       <<: *db_common
