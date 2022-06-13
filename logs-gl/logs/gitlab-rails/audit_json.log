@@ -1,3 +1,0 @@
-# Logfile created on 2022-06-04 09:28:16 +0000 by logger.rb/v1.4.2
-{"severity":"INFO","time":"2022-06-04T09:28:16.534Z","correlation_id":"01G4Q0PE1529QYPWFJT81BXNB8","author_id":1,"author_name":"Administrator","entity_id":1,"entity_type":"User","created_at":"2022-06-04T09:28:16.534+00:00","with":"standard","target_id":1,"target_type":"User","target_details":"Administrator"}
-{"severity":"INFO","time":"2022-06-04T09:29:00.209Z","correlation_id":"01G4Q0QRTV9XPKD0WK5544EDFH","author_id":1,"author_name":"Administrator","entity_id":1,"entity_type":"User","created_at":"2022-06-04T09:29:00.209+00:00","with":"standard","target_id":1,"target_type":"User","target_details":"Administrator"}
